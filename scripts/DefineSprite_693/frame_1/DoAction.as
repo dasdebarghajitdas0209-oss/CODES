@@ -1,0 +1,16 @@
+if(_root.stage.aniBg())
+{
+   indUp.play();
+   scan.play();
+   pnlHi.play();
+   pnlLo.play();
+   disp.play();
+}
+else
+{
+   indUp.gotoAndStop("def");
+   scan.gotoAndStop("def");
+   pnlHi.gotoAndStop("def");
+   pnlLo.gotoAndStop("def");
+   disp.gotoAndStop("def");
+}

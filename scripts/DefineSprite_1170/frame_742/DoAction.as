@@ -1,0 +1,10 @@
+_root.cap.playVo("def");
+_root.fce.chgEbs("def");
+_root.v_tear = 0;
+_root.fce.chgYodare(null,[null,"offStart",null]);
+_root.chinko0.chinko1.gotoAndStop("stay");
+_root.hideBtn.show();
+eval(LegOp).bloodF.ctrl("def");
+_root.v_insert = 0;
+_root.ctrl.resumeBtns();
+inStop();

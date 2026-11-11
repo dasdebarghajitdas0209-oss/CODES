@@ -1,0 +1,19 @@
+if(this.bra)
+{
+   if(rc)
+   {
+      _root.colCos(this,rc,1,"bra_1");
+   }
+   else
+   {
+      _root.colCos(this,"bra_1");
+   }
+}
+else if(this.gart)
+{
+   _root.colCos(this,"gart_1");
+}
+else
+{
+   _root.colCos(this,"pant_1");
+}

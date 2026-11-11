@@ -1,0 +1,9 @@
+if(_root.v_pose)
+{
+   nextFrame();
+}
+else
+{
+   stop();
+}
+_root.colCos(this,"glv3_0");

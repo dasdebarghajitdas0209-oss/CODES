@@ -1,0 +1,9 @@
+_root.cap.playVo(["kuxx","n","ux"],-1,0,null,"def");
+_root.fce.chgEl("shut2");
+_root.hme.hme(2,1,0,10);
+_root.lmM.lmM("mmO",-2,1,10);
+if(_root.lmM.jdgClsMm())
+{
+   _root.lmL.lmL("lg",2,1,10);
+}
+_root.lmF.lmF("ft",2,1,10);
